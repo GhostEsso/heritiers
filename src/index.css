@@ -3,8 +3,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 :root {
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 body {
@@ -12,4 +13,3 @@ body {
   padding: 0;
   min-height: 100vh;
 }
-
